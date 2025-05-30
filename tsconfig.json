@@ -32,6 +32,9 @@
     },
     {
       "path": "./libs/utils/ulib3"
+    },
+    {
+      "path": "./libs/lib4"
     }
   ]
 }
