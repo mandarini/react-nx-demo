@@ -15,6 +15,7 @@
     }
   },
   "nx": {
-    "name": "lib2"
+    "name": "lib2",
+    "tags": ["type:ui"]
   }
 }

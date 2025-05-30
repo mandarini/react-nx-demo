@@ -16,7 +16,8 @@
     }
   },
   "nx": {
-    "name": "ulib1"
+    "name": "ulib1",
+    "tags": ["type:util"]
   },
   "dependencies": {}
 }

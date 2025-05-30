@@ -16,7 +16,8 @@
     }
   },
   "nx": {
-    "name": "ulib3"
+    "name": "ulib3",
+    "tags": ["type:util"]
   },
   "dependencies": {}
 }
