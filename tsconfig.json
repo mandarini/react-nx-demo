@@ -10,24 +10,6 @@
       "path": "./apps/myapp"
     },
     {
-      "path": "./libs/lib1-e2e"
-    },
-    {
-      "path": "./libs/lib1"
-    },
-    {
-      "path": "./libs/lib2-e2e"
-    },
-    {
-      "path": "./libs/lib2"
-    },
-    {
-      "path": "./libs/lib3-e2e"
-    },
-    {
-      "path": "./libs/lib3"
-    },
-    {
       "path": "./libs/utils/ulib1"
     },
     {

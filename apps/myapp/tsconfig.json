@@ -3,6 +3,15 @@
   "include": [],
   "references": [
     {
+      "path": "../../libs/utils/ulib3"
+    },
+    {
+      "path": "../../libs/utils/ulib1"
+    },
+    {
+      "path": "../../libs/lib4"
+    },
+    {
       "path": "./tsconfig.app.json"
     },
     {

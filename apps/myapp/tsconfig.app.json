@@ -48,5 +48,16 @@
     "eslint.config.js",
     "eslint.config.cjs",
     "eslint.config.mjs"
+  ],
+  "references": [
+    {
+      "path": "../../libs/utils/ulib3/tsconfig.lib.json"
+    },
+    {
+      "path": "../../libs/utils/ulib1/tsconfig.lib.json"
+    },
+    {
+      "path": "../../libs/lib4/tsconfig.lib.json"
+    }
   ]
 }

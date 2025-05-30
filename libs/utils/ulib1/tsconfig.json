@@ -4,6 +4,9 @@
   "include": [],
   "references": [
     {
+      "path": "../ulib3"
+    },
+    {
       "path": "./tsconfig.lib.json"
     },
     {

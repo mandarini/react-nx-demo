@@ -3,6 +3,12 @@
   "include": [],
   "references": [
     {
+      "path": "../ui/lib2"
+    },
+    {
+      "path": "../ui/lib1"
+    },
+    {
       "path": "./tsconfig.lib.json"
     },
     {
