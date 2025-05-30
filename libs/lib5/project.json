@@ -1,0 +1,15 @@
+{
+  "name": "lib5",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/lib5/src",
+  "projectType": "library",
+  "release": {
+    "version": {
+      "generatorOptions": {
+        "packageRoot": "dist/libs/lib5",
+        "currentVersionResolver": "git-tag"
+      }
+    }
+  },
+  "tags": []
+}
