@@ -35,6 +35,15 @@
     },
     {
       "path": "./libs/lib4"
+    },
+    {
+      "path": "./libs/ui/lib1"
+    },
+    {
+      "path": "./libs/ui/lib2"
+    },
+    {
+      "path": "./libs/ui/lib3"
     }
   ]
 }
