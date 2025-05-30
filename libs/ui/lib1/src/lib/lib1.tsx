@@ -4,7 +4,7 @@ export function Lib1() {
   return (
     <div className={styles['container']}>
       <h1>Welcome to Lib1!</h1>
-      <p>Hello</p>
+      <p>hello</p>
     </div>
   );
 }
